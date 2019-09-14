@@ -119,16 +119,20 @@ article
 
 .texte1
 {
-    font-size: medium;
+    font-size: 2em;
     margin: auto;
 }
 
 .word1
 {
+    color: rgb(216, 46, 46);
+    text-decoration: underline;
     font-weight: bold;
 }
 
 .word2
 {
+    color: rgb(216, 46, 46);
+    text-decoration: underline;
     font-weight: bold;
 }
