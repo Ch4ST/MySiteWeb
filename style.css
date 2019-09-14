@@ -92,9 +92,19 @@ h1
 
 /* paragraphe */
 
+article
+{
+    width: 530px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin: auto;
+}
+
 .titlea1
 {
-    margin-left: 200px;
+    margin-left: 170px;
+    text-decoration: underline;
     display: flex
 }
 
