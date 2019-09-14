@@ -94,23 +94,26 @@ h1
 
 article
 {
-    width: 530px;
+    margin-left: 10px;
+    width: 550px;
     border: 1px solid black;
     text-align: justify;
     padding: 12px;
-    margin: auto;
 }
-
 .titlea1
 {
-    margin-left: 170px;
+    font-family: 'riffic-bold';
+}
+.titlea1
+{
+    margin-left: 165px;
     text-decoration: underline;
     display: flex
 }
 
 article
 {
-    background-color: white;
+    background-color: rgba(255,255,255,0.8);
     background-size: 600px;
 }
 
@@ -118,4 +121,14 @@ article
 {
     font-size: medium;
     margin: auto;
+}
+
+.word1
+{
+    font-weight: bold;
+}
+
+.word2
+{
+    font-weight: bold;
 }
