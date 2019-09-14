@@ -1,0 +1,111 @@
+/* fonts */
+
+@font-face 
+{
+    font-family: 'riffic-bold';
+    src: url('fonts/riffic-bold-webfont.woff2') format('woff2'),
+         url('fonts/riffic-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* background */
+
+body
+{
+    background-image: url("image/fond.jpg")
+}
+
+h1
+{
+    background-color:white;
+    height: auto;
+    width: auto;
+    background-color: rgba(255,255,255,0.4)
+}
+
+
+/* header */ 
+
+header h1
+{
+    font-family: 'riffic-bold';
+}
+
+header h1
+{
+    text-align: center;
+}
+
+header h1
+{
+    color: white;
+}
+
+/* flexbox */
+
+.titre 
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.title
+{
+    margin: auto;
+}
+
+ul 
+{
+    list-style-type: none;
+    display: flex;
+}
+
+.comp1
+{
+    margin-top: -65px;
+    margin-left: 650px;
+    display: flex;
+}
+
+.comp2
+{
+    margin-top: -65px;
+    margin-left: 170px;
+    display: flex;
+}
+
+a
+{
+    font-size: 1.3em;
+    color: white;
+    padding-bottom: 3px;
+    text-decoration: underline;  
+}
+
+/* taille titre */
+
+h1
+{
+    font-size: 50px; 
+}
+
+/* paragraphe */
+
+.titlea1
+{
+    margin-left: 200px;
+    display: flex
+}
+
+article
+{
+    background-color: white;
+    background-size: 600px;
+}
+
+.texte1
+{
+    font-size: medium;
+    margin: auto;
+}
