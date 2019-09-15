@@ -123,6 +123,11 @@ article
     margin: auto;
 }
 
+.texte1
+{
+    font-family: 'riffic-bold'
+}
+
 .word1
 {
     color: rgb(216, 46, 46);
@@ -137,10 +142,29 @@ article
     font-weight: bold;
 }
 
-/* Vidéo */
+/* Vidéo */ /*aside*/
 
 #video
 {
     margin-top: -275px;
     margin-left: 1000px;
 }
+
+.undervideo
+{
+    font-family: 'riffic-bold'
+}
+
+.undervideo
+{
+    font-size: 2em;
+    color: black; 
+    border: 1px solid black;
+    background-color:white;
+    background-size: 500px;
+    background-color: rgba(255,255,255,0.8);
+    margin-left: 1000px;
+    padding-left: 195px;
+    width: 630px;
+}
+
