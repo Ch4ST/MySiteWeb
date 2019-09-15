@@ -136,3 +136,11 @@ article
     text-decoration: underline;
     font-weight: bold;
 }
+
+/* Vidéo */
+
+#video
+{
+    margin-top: -275px;
+    margin-left: 1000px;
+}
