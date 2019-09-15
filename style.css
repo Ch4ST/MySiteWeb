@@ -63,8 +63,9 @@ ul
 
 .comp1
 {
+    text-align: center;
     margin-top: -65px;
-    margin-left: 650px;
+    margin-left: 635px;
     display: flex;
 }
 
@@ -168,3 +169,17 @@ article
     width: 630px;
 }
 
+/*photo*/
+
+footer
+{
+   margin-left: 10px; 
+   margin-top: -400px;
+}
+
+img
+{
+    width: 575px;
+    height: auto;
+    object-fit: cover;
+}
